@@ -6,3 +6,13 @@ url: https://tech-pioneers.github.io/
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+search_enabled : true
+search:
+  heading_level : 2
+  previews : 3
+  preview_words_before : 5
+  preview_words_after : 10
+  tokenizer_separator : /[\s/]+/
+  rel_url : true
+  button : false
