@@ -11,7 +11,3 @@ permalink: /docs/meeting/march
 
 - 목표1
 - 목표2
-
-3월 1주차
-
-- [0301](/docs/meeting/march/0301)
