@@ -6,8 +6,9 @@ has_children: true
 permalink: /docs/journal
 ---
 
-개발일지 readme 템플릿 여기에 작성
+## 일정
 
----
+3월 1주차
 
-여기는 뭘 적지
+- [젯슨 나노 세팅](/docs/journal/jetsonNano.md)
+- [좌우 장애물 탐지 기능](#)
