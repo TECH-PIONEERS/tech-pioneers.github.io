@@ -16,4 +16,3 @@ search:
   tokenizer_separator: /[\s/]+/
   rel_url: true
   button: false
-  focus_shortcut_key: 'k'
