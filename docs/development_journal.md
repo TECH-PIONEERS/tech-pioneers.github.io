@@ -19,3 +19,5 @@ permalink: /docs/journal
 연속 2회 또는 총 3회 누락시 F 처리
 
 중간 및 기말 각 1주에 대해서 제외 가능, but 사전 허가 필수
+
+**양식 : template 파일 참고**
